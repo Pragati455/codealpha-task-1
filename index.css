@@ -1,0 +1,79 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'pappins',sans-serif;
+
+}
+body{
+    background-image:url(https://th.bing.com/th/id/R.f35c408c29b581b01fe83e9f78fe58b9?rik=CFvriPr%2bGVIXnw&riu=http%3a%2f%2fwww.code-alpha.com%2f1.jpg&ehk=IieK9sCCrC%2bZezXmIE28nX3dj7Nun1j08etNOff3LNE%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+    background-attachment: fixed;
+    color: antiquewhite;
+}
+.heading{
+    text-align: center;
+    color: white;
+    width:100%;
+    margin:auto;
+    margin-top: 100px;
+}
+#fill{
+    font-size: 1.8em;
+}
+#till{
+    font-size: 18px;
+    margin-top: 10px;
+
+}
+#content{
+    width: 90%;
+    margin:auto
+}
+form{
+    background-color: rgba(17, 26, 37, 0.7);
+    padding-top: 34px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 54%;
+    border-radius: 5px;
+    margin:auto;
+    margin-top: 10px;
+    padding-bottom: 60px;
+
+}
+form.box{
+    width:100%;
+    height: 2.8em;
+    position:relative;
+    bottom:10px;
+    border:0;
+    border-radius:5px;
+}
+.submit{
+    box-sizing: border-box;
+    background-color:lightcoral
+    width: 80px;
+    height:30px;
+    border-radius: 5px;
+    justify-content: center;
+    text-align: center;
+}
+.box{
+    width: 100%;
+    height: 2.8em;
+}
+#row select{
+    width: 98.5%;
+    height:2.7em;
+    position:relative;
+    bottom: 10px;
+    border-radius: 5px;
+    border: 0;
+}
+.box{
+    width: 100%;
+    height: 2.8em;
+}
+
+
